@@ -1,0 +1,3 @@
+Tech Assist is a ticketing and IT service management application developed for Tata Trent Limited to streamline IT support operations. The project focuses on business requirement analysis, requirement management, workflow automation, stakeholder coordination, UAT, and efficient tracking and resolution of IT support tickets.
+
+As part of the project, Standard Operating Procedures (SOPs) were designed for both the Web and Mobile applications based on detailed analysis of business requirements and application workflows. These SOPs provide structured guidance for users and support consistent application usage across different processes.
